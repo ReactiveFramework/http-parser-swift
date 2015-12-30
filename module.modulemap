@@ -1,0 +1,5 @@
+module CHttpParser [system] {
+    header "/usr/include/http_parser.h"
+    link "http_parser"
+    export *
+}
